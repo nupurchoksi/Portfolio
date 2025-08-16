@@ -3,7 +3,7 @@
 This is my personal portfolio website, created to showcase my skills, projects, and career journey.  
 It includes sections like Home, About Me, Education, Skills, Projects, and Contact.
 
-Live demo:-  https://nupurchoksi.github.io/portfolio/
+Live demo:-  https://projectportfolio21.netlify.app/
 ---
 
 ## Approach
